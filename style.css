@@ -10,3 +10,10 @@
 video{
    border: 10px solid #d6d6d6;
 }
+#archive
+{
+    position:relative;
+    z-index:1;
+    margin-bottom:0;
+    font-family: source sans pro;
+}
